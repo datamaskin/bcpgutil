@@ -1,4 +1,4 @@
-package org.bouncycastle.openpgp.examples;
+package name.davidwbrown.openpgp;
 
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;
